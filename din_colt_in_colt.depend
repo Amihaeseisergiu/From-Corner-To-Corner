@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1547401993 source:c:\users\sergiu\desktop\din_colt_in_colt\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<windows.h>
+	<cmath>
+	<string.h>
+	<fstream>
+	<time.h>
+
+1547582748 source:c:\users\sergiu\downloads\din_colt_in_colt\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<windows.h>
+	<cmath>
+	<string.h>
+	<fstream>
+	<time.h>
+
